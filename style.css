@@ -42,7 +42,7 @@ body{
     transition: 0.5s;
 }
 .content img{
-    width: 40%;
+    width: 35%;
     height: 545px;
     display: none;
 }
